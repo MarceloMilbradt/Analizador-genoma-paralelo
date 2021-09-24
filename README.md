@@ -4,7 +4,6 @@ Analizador de sequencia de DNA em paralelo com mpi, openmp e pthread
 
 Trabalho II - Mapeamnto genético - Memória Distribuída - MPI
 
-===========================================================
 -----------------------------
 
 1- Encontre a quantidade de vezes que cada sequência está presente no DNA1
